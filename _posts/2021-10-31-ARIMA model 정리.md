@@ -2,7 +2,7 @@
 layout: single
 title:  "ARIMA SARIMA 정리"
 # categories: datascience
-tag: [datascience, python]
+tag: [data science, python]
 toc: true
 author_profile: false
 ---
