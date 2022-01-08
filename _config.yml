@@ -23,7 +23,7 @@ name                     : "Seo"
 description              : "데이터 분석과 인공지능의 공부기록을 남기는 블로그입니다."
 url                      : "https://sjhsjh0.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "sjhsjh0/blogcomment" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "sjhsjh0/blog-comments" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : #
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
