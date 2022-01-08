@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Seaborn Heatmap"
-categories: Data Science
+# categories: Data Science
 tag: [Data Science, Pandas, Seaborn]
 toc: true
 author_profile: false
