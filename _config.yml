@@ -104,13 +104,13 @@ analytics:
 author:
   name             : "SEO"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Work reduces entropy"
+  bio              : "Work reduces entropy <br> SK <br> Oil & Gas Process Engineer <br> Data Analyst"
   location         : "South Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "sjhsjh@gmail.com"
+      url: "sjhsjh0@gmail.com"
     - label: "Github"
       icon: "fas fa-fw fa-link"
       url: "https://github.com/sjhsjh0"
