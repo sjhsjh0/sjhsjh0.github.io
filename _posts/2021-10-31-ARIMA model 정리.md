@@ -4,6 +4,7 @@ title:  "ARIMA SARIMA 정리"
 # categories: datascience
 tag: [data science, 시계열]
 toc: true
+toc_sticky: true
 author_profile: false
 ---
 
