@@ -1,8 +1,8 @@
 ---
 layout: single
 title:  "ARIMA SARIMA 정리"
-# categories: datascience
-tag: [data science, 시계열]
+categories: DataScience
+# tag: [data science, 시계열]
 toc: true
 toc_sticky: true
 author_profile: false
@@ -135,7 +135,7 @@ author_profile: false
 
 
 - AIC를 계산하여 AIC가 작은 Model을 선정.
-
+s
 
 
 ```python
@@ -143,7 +143,7 @@ from PIL import Image
 Image.open('Identification ARIMA Model.jpg')
 ```
 
-![Identification ARIMA Model](../images/2021-10-31-ARIMA model 실습/Identification ARIMA Model.jpg)
+![Identification ARIMA Model](../../../images/2021-10-31-ARIMA model 실습/Identification ARIMA Model.jpg)
 
 ## Passenger Data 예제
 

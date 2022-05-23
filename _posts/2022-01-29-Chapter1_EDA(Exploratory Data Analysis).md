@@ -1,7 +1,8 @@
 ---
 layout: single
 title:  "데이터 과학을 위한 통계_Chapter1_EDA"
-tag: [data science, statistics]
+categories: Statistics
+# tag: [data science, statistics]
 toc: true
 author_profile: false
 published: false

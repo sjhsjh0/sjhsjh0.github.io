@@ -1,8 +1,8 @@
 ---
 layout: single
 title:  "pydataset 설치하고 불러오기"
-# categories: Data Science
-tag: [data science]
+categories: DataSet
+# tag: [data science]
 toc: true
 toc_sticky: true
 author_profile: false
