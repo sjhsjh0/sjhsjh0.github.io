@@ -269,6 +269,8 @@ published: true
 - Parity Problem (반전성 문제): 1,3 사분면 (홀수) 2,4 사분면 (짝수)를 단순히 선하나로 분류할 수 없음.
 - Multimodel Problem :  한 Class가 다양한 공간에 분포하는 경우 Linear classifier로 해결하기 어려움.
 
+---
+
 - **출처**
 
 [**Stanford University Youtube CS231n_Lecture2**](https://www.youtube.com/watch?v=OoUX-nOEjG0&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk&index=2)

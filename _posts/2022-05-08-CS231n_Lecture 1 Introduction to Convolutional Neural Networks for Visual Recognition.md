@@ -163,5 +163,7 @@ published: true
 
 ![Untitled](../../images/2022-05-08-CS231n_Chapter1/Untitled%2022.png)
 
+---
+
 **출처** 
 [**Stanford University Youtube CS231n_Lecture1**](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
