@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "코딩공부"
 title_separator          : "|"
 subtitle                 : 
-name                     : ""
+name                     : "JH"
 description              : "데이터 분석과 인공지능의 공부기록을 남기는 블로그입니다."
 url                      : "https://sjhsjh0.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
