@@ -10,8 +10,6 @@ published: true
 
 ---
 
-# Machine Learning vs Deep Learning
-
 Machine learning and deep learning are two prominent concepts in artificial intelligence (AI). Though often used interchangeably, it's important to grasp their principles and differences. In this post, we'll explore the core ideas, strengths, and weaknesses of machine learning and deep learning to fully understand how they differ.
 
 Machine learning uses algorithms that allow AI systems to learn and improve from experience without being explicitly programmed. Machine learning algorithms build a mathematical model based on sample data, known as "training data", in order to make predictions or decisions without being explicitly programmed to perform the task.
